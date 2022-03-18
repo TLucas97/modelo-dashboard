@@ -79,9 +79,10 @@
 .sidebar{
     width: 20%;
     background: rgba(255, 255, 255, 0.849);
-    height: 100vh;
+    height: 950px;
     display: flex;
     flex-direction: column;
+    border-radius: 7px;
 }
 
 h1{

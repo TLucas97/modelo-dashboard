@@ -27,10 +27,11 @@ export default{
 .main-content{
     background: rgba(255, 255, 255, 0.849);
     margin-top: .9em;
-    height: 93vh;
+    height: 875px;
     display: flex;
     justify-content: center;
     align-items: center;
+    border-radius: 7px;
 }
 
 </style>
