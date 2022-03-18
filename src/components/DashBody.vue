@@ -20,7 +20,6 @@ export default{
 <style scoped>
 .dash-flex{
     display: flex;
-    margin-top: .5em;
 }
 
 </style>
